@@ -1,0 +1,8 @@
+
+{
+  "name": "AlertEye - Student Safety & Emergency Response",
+  "description": "A comprehensive student safety application providing real-time location sharing, trusted contact management, and an instant panic alert system for emergency situations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alertEye Core AI Dashboard",
+  "description": "A sophisticated violence detection and security monitoring dashboard with real-time incident logging and Pi-optimized telemetry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
